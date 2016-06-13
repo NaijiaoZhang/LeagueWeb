@@ -1,1 +1,1 @@
-# LeagueWeb
+# Go to gh-pages branch :)
