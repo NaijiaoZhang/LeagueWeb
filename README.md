@@ -1,1 +1,1 @@
-# Go to gh-pages branch :)
+# Go to gh-pages branch 
